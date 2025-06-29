@@ -1,9 +1,3 @@
-📁 **Content ideas:**
-- Markdown write-ups on how you run standups, retrospectives, PI planning
-- Screenshots of Jira boards or a sprint burndown (can be redacted)
-- Templates or formats used in your work
-
-```markdown
 # 🔁 Agile & Scrum Practices
 
 This repository captures real-world examples and insights from my 4+ years as a Scrum Master and Agile Lead.
@@ -28,3 +22,13 @@ This repository captures real-world examples and insights from my 4+ years as a 
 
 - Improved sprint predictability by 30% through consistent grooming and estimation
 - Aligned 3+ squads during PI planning and achieved >95% release success rate
+
+📁 **Content ideas:**
+- Markdown write-ups on how you run standups, retrospectives, PI planning
+- Screenshots of Jira boards or a sprint burndown (can be redacted)
+- Templates or formats used in your work
+
+## 🔧 Contents
+- `/ceremonies/standup.md`: Example standup format & notes
+- `/ceremonies/retrospective.md`: Sample retrospective format
+- `/metrics/`: Templates for SLA/RLA dashboards and run review summaries
